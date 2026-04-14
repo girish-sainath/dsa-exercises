@@ -1,0 +1,5 @@
+.DS_Store
+*.mvn
+*.gitattributes
+*mvnw
+*mvnw.cmd
