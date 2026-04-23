@@ -1,4 +1,4 @@
-class TwoSumBruteForce {
+public class TwoSumBruteForce {
     
     public int[] twoSum(int[] numbers, int target) {
         for (int i = 0, l = numbers.length; i < l; i += 1) {
